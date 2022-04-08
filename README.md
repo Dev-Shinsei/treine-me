@@ -1,4 +1,4 @@
-# Móveis Customizados
+# Treine Me
 
 ![License](https://img.shields.io/npm/l/a?color=Green)
 ![Last Commit](https://img.shields.io/github/last-commit/Dev-shinsei/treine-me)
